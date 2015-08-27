@@ -13,10 +13,9 @@ body {
 }
 
 #menu {
-	background: #384047;
-	height: 60px;
-	padding: 0 5px 0;
-	text-align: center;
+	background: #1C75BC;
+	height: 80px;
+	padding: 30px 10px 10px;
 }
 
 ul {
@@ -63,7 +62,7 @@ p {
 
 
 /***************************************
-MEDIA QUERIE
+MEDIA QUERIES
 ***************************************/
 
 /*Hides links on smaller widths 
@@ -81,9 +80,3 @@ larger width and show's links*/
     display: none;
   }
 }
-
-
-
-
-
-
